@@ -47,10 +47,10 @@ I looked at the distributions of the data and the value counts for the various c
 
 
 
-![alt text](https://github.com/hariranjanmeena/DS_salary_project/blob/d5ef391b0ebf0a3fe65e9a87d4e3ff4f037c3901/salary_by_job_title.PNG "Salary by Position")
-![alt text](https://github.com/hariranjanmeena/DS_salary_project/blob/d5ef391b0ebf0a3fe65e9a87d4e3ff4f037c3901/positions_by_state.PNG "Job Opportunities by State")
 ![alt text](https://github.com/hariranjanmeena/DS_salary_project/blob/d5ef391b0ebf0a3fe65e9a87d4e3ff4f037c3901/correlation_visual.PNG "Correlations")
+![alt text](https://github.com/hariranjanmeena/DS_salary_project/blob/d5ef391b0ebf0a3fe65e9a87d4e3ff4f037c3901/positions_by_state.PNG "Job Opportunities by State")
 ![alt text](https://github.com/hariranjanmeena/DS_salary_project/blob/d5ef391b0ebf0a3fe65e9a87d4e3ff4f037c3901/wordcloud_of_JobDesc.PNG "WordCloud of Job Description")
+![alt text](https://github.com/hariranjanmeena/DS_salary_project/blob/d5ef391b0ebf0a3fe65e9a87d4e3ff4f037c3901/salary_by_job_title.PNG "Salary by Position")
 
 ## Model Building 
 
